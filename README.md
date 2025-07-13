@@ -1,9 +1,37 @@
-- 👋 Hi, I’m @larissedias
-- 👀 I’m working in web design & development, as well as automations.
-- 💞️ I’m looking to collaborate on design projects! 
-- 📫 How to reach me laradias@connektadigital.com
+<h1 align="center">👾 Welcome to @larissedias' Neural Hub</h1>
 
-<!---
-larissedias/larissedias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```ts
+const developer = {
+  name: "Lara Dias",
+  alias: "@larissedias",
+  coreSkills: ["Web Design", "Frontend Development", "Automation Architect"],
+  currentlyWorkingOn: "UX-driven interfaces + intelligent workflows",
+  lookingToCollaborateOn: ["Design Projects", "No-code/Low-code tools", "Next-gen UI"],
+  location: "🌍 Operating from Portugal (via the cloud)",
+  contact: "laradias@connektadigital.com",
+}
+```
+
+---
+
+### ⚡ Interact with Me
+
+- 👁️ Scanning the future of user experiences  
+- 🛠️ Building seamless automations so you don’t have to  
+- 🎨 Designing interfaces that *think*
+
+> *Design like a poet. Code like a machine. Automate like a futurist.*
+
+---
+
+### 🔗 Connect
+
+- 🌐 [Portfolio & Projects Coming Soon...](https://github.com/larissedias)
+- 📫 Reach out: **laradias@connektadigital.com**
+
+---
+
+```bash
+# run this line in your head:
+> initiating collaboration sequence...
+```
